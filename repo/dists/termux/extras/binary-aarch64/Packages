@@ -26,3 +26,17 @@ SHA1: 647f871dc8bebe6af9acc99313b1af7858b1a15d
 SHA256: f3e5f0446ebc7bbc02305175fdaaa1faa2ce67c93f84a9b26eb4ff5fecf67927
 SHA512: f65a507d3c35850f1c7e7f044972a9060674b21ef4bb238b4126b2bef80b9ac0f34c4c1198a36a6573bfb6953b23fd57aa71dc333addb55293b5937aefe7e3b3
 
+Package: sine
+Version: 1.0
+Architecture: aarch64
+Maintainer: @mishpro
+Installed-Size: 7
+Homepage: http://example.com
+Description: Calculates sine value of entered
+Filename: dists/termux/extras/binary-aarch64/sine_1.0_aarch64.deb
+Size: 2648
+MD5Sum: f5560588ed4de4115b56b30424e25ba1
+SHA1: 4583d8eebad054d61624c64de05e215248bc8905
+SHA256: f57beae542b99328881b31f290663bd47a9bc3e5bea7c60f4446dc835b7e6009
+SHA512: b7d3c00ff1ffb91c65dc3fa0ac6520213155b9848df8ea3fe2714a8f40ae35a1e7e95ddeb6533267a5d740a177763e9b8863697f60d2cd9d2e2f90efd574fa8f
+
