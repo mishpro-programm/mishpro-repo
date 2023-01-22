@@ -1,0 +1,28 @@
+Package: freefall-calc
+Version: 1.0
+Architecture: aarch64
+Maintainer: @mishpro
+Installed-Size: 53
+Homepage: http://example.com
+Description: Calls freefall acceleration, where first argument is mass of planet in kg and first argument is distance from planet in meters
+Filename: dists/termux/extras/binary-aarch64/freefall-calc_1.0_aarch64.deb
+Size: 16972
+MD5Sum: 943079313b66fe48008ab7f8f0191d5d
+SHA1: f37ed3e9db33f67ef65fc469b14beae1126d658a
+SHA256: bd5925f9c79c23c0d23d1ecddca729b6edbe9335be20dc50524c261f7c936507
+SHA512: a7e4ee1718761c6208b08058816a281fe416a598b233654b3bce20a17cbae8e686284bc456e0f1f722c9c9b497a570730bec7c64bd823f1ab1c0633ea0f51f6c
+
+Package: hello-world
+Version: 1.0
+Architecture: aarch64
+Maintainer: @mishpro
+Installed-Size: 6
+Homepage: http://example.com
+Description: All known Hello World
+Filename: dists/termux/extras/binary-aarch64/hello-world_1.0_aarch64.deb
+Size: 2516
+MD5Sum: c09e62f7ebffffa5c486402877ba625f
+SHA1: 647f871dc8bebe6af9acc99313b1af7858b1a15d
+SHA256: f3e5f0446ebc7bbc02305175fdaaa1faa2ce67c93f84a9b26eb4ff5fecf67927
+SHA512: f65a507d3c35850f1c7e7f044972a9060674b21ef4bb238b4126b2bef80b9ac0f34c4c1198a36a6573bfb6953b23fd57aa71dc333addb55293b5937aefe7e3b3
+
