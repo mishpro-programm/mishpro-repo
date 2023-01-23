@@ -1,4 +1,5 @@
 data/data/com.termux/files/usr/bin/apk-builder                                   apk-builder
+data/data/com.termux/files/usr/share/java/android-24.jar                         apk-builder
 data/data/com.termux/files/usr/bin/freefall-calc                                 freefall-calc
 data/data/com.termux/files/usr/bin/helloworld                                    hello-world
 data/data/com.termux/files/usr/bin/sine                                          sine
