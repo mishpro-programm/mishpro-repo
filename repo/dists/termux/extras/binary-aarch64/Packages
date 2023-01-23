@@ -2,16 +2,16 @@ Package: apk-builder
 Version: 1.0
 Architecture: aarch64
 Maintainer: @mishpro
-Installed-Size: 33928
+Installed-Size: 464
 Depends: aapt, dx, ecj, apksigner, boost, fmt
 Homepage: http://example.com
 Description: Simple termux package to create apks. It needs android.jar file, that installs with package into $PREFIX/share/java/android-24.jar. API version of downloaded file is 24
 Filename: dists/termux/extras/binary-aarch64/apk-builder_1.0_aarch64.deb
-Size: 16336676
-MD5Sum: 03afd716f440d3e93b44f5cc41bb6e0b
-SHA1: 30afb286e660e394f240624d3cb299b0444e6d94
-SHA256: a5e5cdc2dc63a1e7fc03e3437223be3e260e915065dbd937453499cfe1528073
-SHA512: 8aad8e3d1e3a29d8e89f39f87f16ffeae2bd793c94b86bd2ac952b4ee224dee42fbebc8bba18f0cffe93ba3dbe76daa50e929730dae7ed7b153ccc5623563fee
+Size: 97488
+MD5Sum: 29ab5e7f8bfe220156f5cb33c7dd1957
+SHA1: bb33f2d496933555697b5a7076d96fa6a8e971f1
+SHA256: 82c372b587e32205ce223b147e1c48f40a53693d2e8b147ec4e67c1794b6f52c
+SHA512: 5bc043b1a220dfa31389e0a8da9393d0645eeafa1f2845182a028c539bc1c649636a21947707a9979be9977bd2ee1c91d98ca9a7034aefce7f687d9ac2dd4ad5
 
 Package: freefall-calc
 Version: 1.0
